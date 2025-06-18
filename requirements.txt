@@ -1,0 +1,6 @@
+fpdf
+streamlit
+streamlit==1.19.0
+fpdf==1.7.2
+requests
+altair

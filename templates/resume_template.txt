@@ -1,0 +1,24 @@
+{NAME}
+{JOB_TITLE}
+Contact: {CONTACT} | Email: {EMAIL}
+
+Profile
+{EXPERIENCE}
+
+Areas of Expertise
+{SKILLS}
+
+Professional Experience
+{EXPERIENCE}
+
+Education
+{EDUCATION}
+
+Certifications
+{CERTIFICATIONS}
+
+Skills
+{SKILLS}
+
+Languages
+{LANGUAGES}
